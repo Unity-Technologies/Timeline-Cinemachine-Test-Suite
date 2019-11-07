@@ -1,0 +1,16 @@
+
+ guide video 
+
+
+1. character set up 
+
+ youtube link :   https://youtu.be/3pmm1JUik9o
+
+
+
+2. tip of reusing particle effect
+
+   ( reused particle name is "Effect_Att_01" in guide video )
+
+
+ youtube link :   https://youtu.be/gtnDE0fPq0k

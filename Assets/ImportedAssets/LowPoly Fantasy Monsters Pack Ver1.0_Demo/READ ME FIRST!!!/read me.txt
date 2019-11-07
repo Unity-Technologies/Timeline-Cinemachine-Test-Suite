@@ -1,0 +1,19 @@
+
+monster's explanation is in folder that named as monster's name.
+
+
+and there are monster's demo scene. monster is ready for control in demo scene .
+
+import following package before open demo scene.
+
+  4.x : Import Package > Image Effects(Pro Only)
+                         Standard Assets(Mobile)
+                         Terrain Assets
+                         Tree Creator
+
+  5.x : Import Package > Effects
+                         Environment
+
+
+
+if you want to control setup yourself, there is video for setup guide(character setup guide link).

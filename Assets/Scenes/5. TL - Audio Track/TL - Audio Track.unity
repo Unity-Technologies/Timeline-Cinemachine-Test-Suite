@@ -784,11 +784,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 950984148}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5091e2e5fec2f8b4ba2b2bd0d20a1b76, type: 3}
+  m_Script: {fileID: 11500000, guid: d0651338b0384ef43853f58bfc31629e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1817941354}
-  distanceFromTarget: 2
+  distanceFromTarget: 1
   speed: 0.01
 --- !u!1 &1017924863
 GameObject:
@@ -2242,7 +2242,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1777408633}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 64e96feb14b734842a4d63f3e421bef8, type: 3}
+  m_Script: {fileID: 11500000, guid: 5435946f430faa549a39cb4a960c01df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   title: {fileID: 2024405089}

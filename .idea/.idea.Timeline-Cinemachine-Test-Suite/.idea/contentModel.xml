@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity_Projects\Timeline-Cinemachine-Test-Suite\Timeline-Cinemachine-Test-Suite" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ImportedAssets" t="Include">
+          <e p="LowPoly Fantasy Monsters Pack Ver1.0_Demo" t="Include">
+            <e p="Environment" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Move.cs" t="Include" />
+                <e p="PointLight.cs" t="Include" />
+              </e>
+            </e>
+            <e p="READ ME FIRST!!!" t="Include">
+              <e p="character setup guide link.txt" t="Include" />
+              <e p="read me.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scenes" t="Include">
+          <e p="11. CM - Clearshot Camera" t="Include">
+            <e p="MoveForward.cs" t="Include" />
+          </e>
+          <e p="13. CM - Target Group Camera" t="Include">
+            <e p="TargetGroup_Weights.cs" t="Include" />
+          </e>
+          <e p="5. TL - Audio Track" t="Include">
+            <e p="Controller.cs" t="Include" />
+            <e p="rotateAround.cs" t="Include" />
+          </e>
+          <e p="6. TL - Signal Track" t="Include">
+            <e p="SignalController.cs" t="Include" />
+          </e>
+          <e p="7. TL - Activation Track" t="Include">
+            <e p="ActivationController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AnimationEvents.cs" t="Include" />
+          <e p="Destroy.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Timeline-Cinemachine-Test-Suite.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\Juozas\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Juozas\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Juozas\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Timeline-Cinemachine-Test-Suite.-433607347.00" t="ExcludeRecursive" />
+  </component>
+</project>

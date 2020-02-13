@@ -4,5 +4,52 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Test_Framework/Menu.unity
+    guid: 71833769e3ef3ed459c4a462776cfa20
+  - enabled: 1
+    path: Assets/Test_Framework/Summary.unity
+    guid: 741cd7e9d9cd70042945951df13adb94
+  - enabled: 1
+    path: Assets/Scenes/1. TL - Blend Clips Scene/TL - Blend Clips Scene.unity
+    guid: d8a0871b7ead65e4b88d8e828647670c
+  - enabled: 1
+    path: Assets/Scenes/2. TL - Nested Timelines/TL - Nested Timelines Scene.unity
+    guid: 3c9e0d2a85399e448a6b6c84a95e76e5
+  - enabled: 1
+    path: Assets/Scenes/3. TL - Animating in Timeline/TL - Animating in Timeline
+      Scene.unity
+    guid: 2f0826a38ba28c644a5aa1abf7dcc400
+  - enabled: 1
+    path: Assets/Scenes/4. TL - Track Clip Extrapolate/TL - Track Clip Extrapolate.unity
+    guid: 54738b641719efa408a6aa2e0cb4f5bd
+  - enabled: 1
+    path: Assets/Scenes/5. TL - Audio Track/TL - Audio Track.unity
+    guid: 3ce8782b23cbaa84680db7519b94b757
+  - enabled: 1
+    path: Assets/Scenes/6. TL - Signal Track/TL - Signal Track.unity
+    guid: 0b46654f63e4cc5488b87ba9d178833b
+  - enabled: 1
+    path: Assets/Scenes/7. TL - Activation Track/TL - Activation Track.unity
+    guid: b3b98c06daa48784395f5661454639c9
+  - enabled: 1
+    path: Assets/Scenes/8. TL_CM - Cameras are switched through Timeline/TL-CM -
+      Cameras Switched Scene.unity
+    guid: 9277c33f94e88a342ac4fcf6f549ecab
+  - enabled: 1
+    path: Assets/Scenes/9. CM - Freelook Camera/CM - Freelook Camera.unity
+    guid: 5e45dcba8f3edab4d8a3a644e3e60e1a
+  - enabled: 1
+    path: Assets/Scenes/10. CM - State-Driven Camera/CM - State-Driven Camera.unity
+    guid: e46e27467b7c5ed4386ed472ed71e17b
+  - enabled: 1
+    path: Assets/Scenes/11. CM - Clearshot Camera/CM - Clearshot Camera.unity
+    guid: 4c8e75a2b25d5c24c918d5c0f31c5106
+  - enabled: 1
+    path: Assets/Scenes/12. CM - Dolly Camera/CM - Dolly Camera.unity
+    guid: 95a19cc5aac28de479f0ae2eaabd5352
+  - enabled: 1
+    path: Assets/Scenes/13. CM - Target Group Camera/CM - Target Group Camera.unity
+    guid: 8be519e2643b5e14a852bc4b3f1523ee
   m_configObjects: {}

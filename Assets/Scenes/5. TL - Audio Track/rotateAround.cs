@@ -16,8 +16,8 @@ public class rotateAround : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        x += speed;
-        z += speed;
+        x += speed * Time.deltaTime;
+        z += speed * Time.deltaTime;
 
         transform.position = target.transform.position + new Vector3(Mathf.Sin(x) * distanceFromTarget, 0, Mathf.Cos(z) * distanceFromTarget);
     }

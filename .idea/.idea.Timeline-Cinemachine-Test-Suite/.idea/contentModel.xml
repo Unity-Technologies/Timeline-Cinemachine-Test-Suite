@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Unity_Projects\Timeline-Cinemachine-Test-Suite\Timeline-Cinemachine-Test-Suite" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="ImportedAssets" t="Include">
@@ -39,6 +40,19 @@
         <e p="Scripts" t="Include">
           <e p="AnimationEvents.cs" t="Include" />
           <e p="Destroy.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="AssetBundles.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Test_Framework" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="AlphanumComparatorFast.cs" t="Include" />
+            <e p="Expected_Results_Controller.cs" t="Include" />
+            <e p="FrameworkController.cs" t="Include" />
+            <e p="MainMenuController.cs" t="Include" />
+            <e p="SummaryController.cs" t="Include" />
+            <e p="TestController.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
